@@ -3,12 +3,13 @@
 using namespace std;
 
 int main(){
-	nilai=nilai+1;
+	
 	int nilai;
-	int 1Nilai;
-	
-	Cout << nilai;
-	cout << 1Nilai;
+	int Nilai1;
 	
 	
+	cout<< "masukkan nilai :";
+	cin >> nilai;
+	Nilai1=nilai+1;
+	cout<<"hasil	:" << Nilai1;
 }

@@ -18,4 +18,5 @@ int main(){
 	cout<<"Biaya parket(Rp)\t:"<<biaya_parket<<"\n";
 	biaya_pasang=luas*20;
 	cout<<"biaya_pasang(Rp)\t:"<<biaya_pasang<<"\n";
+	total_biaya=biaya_parket+biaya_pasang;
 }

@@ -8,4 +8,6 @@ int main(){
 	
 	cout<<"Masukkan Luas Rumah(m2)\t:";
 	cin >> luas;
+	cout<<"Luas Rumah\t\t:"<<luas<<" m2\n";
+	luas_box=1.87596;
 }

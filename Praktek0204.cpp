@@ -11,4 +11,6 @@ int main(){
 	cout<<"Luas Rumah\t\t:"<<luas<<" m2\n";
 	luas_box=1.87596;
 	jumlah_box=luas/luas_box;
+
+	cout<<"Luas 1 box parket\t:"<<luas_box<<" m2\n";
 }

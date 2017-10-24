@@ -9,8 +9,8 @@ int main(){
 	cout<<"Masukkan Luas Rumah(m2)\t:";
 	cin >> luas;
 	cout<<"Luas Rumah\t\t:"<<luas<<" m2\n";
-	luas_box=1.87596;
 	jumlah_box=luas/luas_box;
+	luas_box=1.87596;
 
 	cout<<"Luas 1 box parket\t:"<<luas_box<<" m2\n";
 	cout<<"Jumlah box parket\t:"<<jumlah_box<<"\n";

@@ -14,4 +14,5 @@ int main(){
 
 	cout<<"Luas 1 box parket\t:"<<luas_box<<" m2\n";
 	cout<<"Jumlah box parket\t:"<<jumlah_box<<"\n";
+	biaya_parket=500*jumlah_box;
 }
